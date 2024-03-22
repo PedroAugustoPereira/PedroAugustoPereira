@@ -2,7 +2,7 @@
 
 - 🎓 Estou no 2° Semestre de Sistemas de Informação na PUCRS
 - ✍ Estudando typescript/nextJS
-- 👨‍💻 Procurando oprtunidades em projetos, como junior e estágios
+- 👨‍💻 Procurando novas oportunidades
 - 🔌 Sou Técnico eletrônica
 - 🚩 Possuo 19 anos e sou de Porto Alegre
 - 😀 Pronouns: ele/dele
