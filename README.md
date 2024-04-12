@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Augusto ✌
 
-- 🎓 Estou no 2° Semestre de Sistemas de Informação na PUCRS
+- 🎓 Estou no 3° Semestre de Sistemas de Informação na PUCRS
 - ✍ Estudando typescript/nextJS
 - 👨‍💻 Procurando novas oportunidades
 - 🔌 Sou Técnico eletrônica
