@@ -4,7 +4,7 @@
 - ✍ Estudando typescript/nextJS
 - 👨‍💻 Procurando novas oportunidades
 - 🔌 Sou Técnico eletrônica
-- 🚩 Possuo 19 anos e sou de Porto Alegre
+- 🚩 Possuo 20 anos e sou de Porto Alegre
 - 😀 Pronouns: ele/dele
 
 <br>
