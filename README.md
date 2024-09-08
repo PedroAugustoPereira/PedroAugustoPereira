@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Pedro Augusto ✌
 
-- 🎓 Estou no 3° Semestre de Sistemas de Informação na PUCRS
-- ✍ Estudando typescript/nextJS
+- 🎓 Estou no 4° Semestre de Sistemas de Informação na PUCRS
+- 💼 Desenvolvedor de Software Desktop na Nelogica
+- ✍ Estudando Golang/NestJs
 - 👨‍💻 Procurando novas oportunidades
 - 🔌 Sou Técnico eletrônica
 - 🚩 Possuo 20 anos e sou de Porto Alegre
