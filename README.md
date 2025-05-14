@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Pedro Augusto ✌
 
-- 🎓 Estou no 4° Semestre de Sistemas de Informação na PUCRS
+- 🎓 Estou no 5° Semestre de Engenharia de software na PUCRS
 - 💼 Desenvolvedor de Software Desktop na Nelogica
 - ✍ Estudando Golang/NestJs
 - 👨‍💻 Procurando novas oportunidades
 - 🔌 Sou Técnico eletrônica
-- 🚩 Possuo 20 anos e sou de Porto Alegre
+- 🚩 Possuo 21 anos e sou de Porto Alegre
 - 😀 Pronouns: ele/dele
 
 <br>
