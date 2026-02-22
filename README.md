@@ -1,15 +1,14 @@
 ### Olá! Eu sou o Pedro Augusto ✌
 
-- 🎓 Estou no 5° Semestre de Engenharia de software na PUCRS
-- 💼 Desenvolvedor de Software Desktop na Nelogica
-- ✍ Estudando Golang/NestJs
-- 👨‍💻 Procurando novas oportunidades
-- 🔌 Sou Técnico eletrônica
-- 🚩 Possuo 21 anos e sou de Porto Alegre
-- 😀 Pronouns: ele/dele
+- Estou no 7° Semestre de Engenharia de software na PUCRS
+- Sou Engenheiro de Software II na Nelogica
+- Estudando Golang e Devops
+- Sou Técnico eletrônica
+- Possuo 21 anos e sou de Porto Alegre
+- Referênca técnica do maior sistema de automações para o mercado financeiro da américa latina
 
 <br>
-<p align="center">Eu 💗 a tecnologia e a programação como um todo, desde o desenvolvimento front-end (nextjs), back-end (typescript + DB), até a programação em C. Estou sempre em constante desenvolvimento para superar cada vez mais desafios 😀!</p>&nbsp;
+<p align="center">Eu 💗 a tecnologia e a programação como um todo, desde o desenvolvimento front-end, back-end, até a programação baixo nível. Estou sempre em constante desenvolvimento para superar cada vez mais desafios 😀!</p>&nbsp;
 
 ## My Skills
 
